@@ -8,4 +8,4 @@ features:
 - Tagging facility for filtering posts
 - Showing Similar posts on a Post-detail display
 - Custom template tags
-- Markdown filter for posts styling
+- Markdown (Custom template filter) for posts styling
