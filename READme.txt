@@ -9,3 +9,5 @@ features:
 - Showing Similar posts on a Post-detail display
 - Custom template tags
 - Markdown (Custom template filter) for posts styling
+- Sitemap (For telling search engines the pages of our website)
+- RSS feed subscription
