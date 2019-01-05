@@ -1,4 +1,6 @@
-Blog Application
+News Blogging Application
+
+Technology Used : Django 2, PostgreSQL
 
 features:
 - Custom URL using slug
@@ -11,3 +13,5 @@ features:
 - Markdown (Custom template filter) for posts styling
 - Sitemap (For telling search engines the pages of our website)
 - RSS feed subscription
+- PostgreSQL for storing data
+- Search Posts
